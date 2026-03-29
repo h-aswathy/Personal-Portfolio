@@ -52,4 +52,4 @@ jobs:
           app-name: 'AswaPortfolio2'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FBB63DBEE01C4F449DA90CFCB59AFF14 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1B4EA82BB96A473EA518C16BF3687B42 }}
